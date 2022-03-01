@@ -27,7 +27,7 @@
 		
     ![](./images/vscode.png)
 
-    -   登陆账号同步自己设置以及常用插件
+    -   登陆账号同步自己设置以及常用插件(待更新...)
 -   [iterm2](https://iterm2.com/) + [fish shell](https://fishshell.com/) + [starship](https://starship.rs/)， fish 有很好的提示（个人认为比 zsh 好用），[starship](https://starship.rs/) 则可以让终端更加智能和好看。
     -   安装 fish: `brew install fish`，命令行输入 `fish` 启用。
     -   安装 omf，是 fish 的增强工具：`curl -L https://get.oh-my.fish | fish`，方便安装插件
@@ -38,8 +38,8 @@
     starship init fish | source
     nvm use 14
     ```
-    -   starship 本身有预设的配置，自己在其基础上加了一些配置（[参考配置](https://github.com/Mayandev/macbook-starter-hankbook/blob/main/starship.toml)），主要作用就是将终端用户名改成“➜”，电脑低于一定电量时显示 💀emoji。输入 `starship config` 打开配置文件，使用 vim 操作。
-    -   iterm2 的外观设置直接导入[自用的配置文件](https://github.com/Mayandev/macbook-starter-hankbook/blob/main/iterm2_config.json)，系统设置--->Profile--->Other Actions--->Import Json Profile，其中 Non-ASCII 字符使用到了 Nerd Font，需要先[下载并安装](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/FantasqueSansMono.zip)。
+    -   starship 本身有预设的配置，自己在其基础上加了一些配置（[参考配置](https://github.com/Mayandev/macbook-starter-handbook/blob/main/starship.toml)），主要作用就是将终端用户名改成“➜”，电脑低于一定电量时显示 💀emoji。输入 `starship config` 打开配置文件，使用 vim 操作。
+    -   iterm2 的外观设置直接导入[自用的配置文件](https://github.com/Mayandev/macbook-starter-handbook/blob/main/iterm2_config.json)，系统设置--->Profile--->Other Actions--->Import Json Profile，其中 Non-ASCII 字符使用到了 Nerd Font，需要先[下载并安装](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/FantasqueSansMono.zip)。
     
     ![](./images/iterm2.png)
     
@@ -48,7 +48,7 @@
 
 ### 访达
 
--   `ctrl+cmd+g` 输入 `/` 进入系统根目录，拖动♿️ user 目录到侧边栏
+-   `ctrl+cmd+g` 输入 `/` 进入系统根目录，拖动🏠 user 目录到侧边栏
 -   在 user 目录下新建 Developer 文件夹，存放代码，拖放到侧边栏
 
 ![](./images/finder.png)
