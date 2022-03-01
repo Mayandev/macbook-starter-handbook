@@ -2,7 +2,7 @@
 > 
 > 拿到一台新的 Macbook 时，我应该做什么？
 > 
-> 按照自己的 Mac 使用习惯写下此份手册，方便使用新的电脑时，可以快速配置好相应的环境以及软件，个人向，实用为主，长期维护，不定期更新。
+> 按照自己的 Mac 使用习惯写下此份手册，方便使用新的电脑时，可以快速配置好相应的环境以及软件，个人向（偏前端），实用为主，长期维护，不定期更新。
 
 ## 软件
 
@@ -15,7 +15,7 @@
 -   [Typora](https://typora.io/#download) （很好用的本地 Markdown 编辑器，不过现在收费了，不想付费可以选择替代品 [Obsidian](https://obsidian.md/)、[FSNotes](https://github.com/glushchenko/fsnotes)）
 -   [Shiftit](https://github.com/fikovnik/ShiftIt)，可以通过快捷键快速分屏，安装命令 `$ brew install shiftit --cask` ，开源
 -   [clipy](https://clipy-app.com/)，剪切板工具，记录历史复制内容，开源
--   [iterm2](https://iterm2.com/), 非常好用的终端，配合 zsh or fish 使用
+-   [iterm2](https://iterm2.com/)， 非常好用的终端，配合 zsh or fish 使用
 -   [fig](https://fig.io/)，命令行提示工具
 -   [The Unarchiver](https://theunarchiver.com/)，必备解压工具
 -   [Mos](https://github.com/Caldis/Mos)，平滑鼠标滚动效果，或单独设置滚动方向的小工具
@@ -23,8 +23,7 @@
 
 ## 环境
 
--   vscode 配置一个 code 的启动命令，    
-    -   通过命令行直接打开指定文件夹。`shift+cmd+p` 打开命令面板，输入 code 并选择 install。
+-   vscode 配置一个 code 的启动命令，`shift+cmd+p` 打开命令面板，输入 code 并选择 install，这样就可以通过`code ./dir/`命令行直接打开指定文件夹。
 		
     ![](./images/vscode.png)
 
