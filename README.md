@@ -66,7 +66,7 @@
 ## Chrome 插件
 
 - [FeHelper](https://chrome.google.com/webstore/detail/fehelper%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8B/pkgccpejnmalmdinmhkkfafefagiiiad?utm_source=chrome-ntp-icon)，满足你对前端一切想象的开发工具
-- [翻译侠](https://chrome.google.com/webstore/detail/%E7%BF%BB%E8%AF%91%E4%BE%A0%EF%BC%88translate-man%EF%BC%89plus/fmiefmaepcnjahoajkfckenfngfehhma?hl=zh-CN)，划词翻译，DeepL 翻译引擎
+- [划词翻译](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad/related?hl=zh-CN)，有 Google、Bing 和 DeepL 翻译引擎
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)，在浏览器使用 Vim 的一些快捷键
 
 待更新...
