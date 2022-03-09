@@ -13,8 +13,7 @@
     /bin/bash -c  $(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh) 
     ```
 -   [Typora](https://typora.io/#download) （很好用的本地 Markdown 编辑器，不过现在收费了，不想付费可以选择替代品 [Obsidian](https://obsidian.md/)、[FSNotes](https://github.com/glushchenko/fsnotes)）
--   [Shiftit](https://github.com/fikovnik/ShiftIt)，可以通过快捷键快速分屏，安装命令 `$ brew install shiftit --cask` ，开源
--   [clipy](https://clipy-app.com/)，剪切板工具，记录历史复制内容，开源
+-   [Raycast](https://www.raycast.com/)，和 Alfred 一样好用的启动器，支持剪切板、分屏等等一些插件，一个顶 N 个
 -   [iterm2](https://iterm2.com/)， 非常好用的终端，配合 zsh or fish 使用
 -   [fig](https://fig.io/)，命令行提示工具
 -   [The Unarchiver](https://theunarchiver.com/)，必备解压工具
@@ -42,6 +41,8 @@
     -   iterm2 的外观设置直接导入[自用的配置文件](https://github.com/Mayandev/macbook-starter-handbook/blob/main/iterm2_config.json)，系统设置--->Profile--->Other Actions--->Import Json Profile，其中 Non-ASCII 字符使用到了 Nerd Font，需要先[下载并安装](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/FantasqueSansMono.zip)。
     
     ![](./images/iterm2.png)
+
+    -   设置 [alias](https://gist.github.com/tikolakin/d59b4fc87c0af9720d0d)，方便快速启动项目
     
 
 ## 设置
